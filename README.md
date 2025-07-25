@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Isaiah</h1>
-<h3 align="center">I am a passionate STEM student in Bronx NY pursuing a career in robotics engineering.</h3>
+<h1 align="center">Hi 👋, I'm Isaiah.</h1>
+<h3 align="center">I am a passionate STEM student in Bronx NY pursuing a career in robotics engineering. I enjoy working with my hands, coding, and hoobies based around making things (Woodworking, aquascaping, etc).</h3>
+
+<h5 align="center"> Professional experience: Chosen from an 11% pool to participate in sci-mi, an electrical engineering mentorship institue focused on providing technological knowledge to underepresented youth. Developed skills in digtal circuitry design, computer literacy, and more. Currently participating in the karim kharbouch coding fellowship, a fellowship based on providing skills in graphic design, coding, and more. Developed and gained skills in flexbox, CSS, javascript, figma, replit, and more.
+
+<h5 align="center"> Educational experience: Rising junior attending university heights high school. Proud member of the science scholars society, Young mens united executive board, Salvadori Stem program, and rugby. Participated in multiple stem based classes such as APCSP, AWS cloud computing with arizona stat university, intro to engineering, biomedical engineering, and more.
+
 
 - 📫 How to reach me **isaiahgonzalez809@gmail.com**
 
